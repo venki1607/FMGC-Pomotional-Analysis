@@ -7,7 +7,7 @@ AtliQ Mart, a prominent retail chain in southern India, conducted extensive prom
 
 #### Important Links:
 
-- **Live Dashboard:** [novyPro Link](https://app.powerbi.com/view?r=eyJrIjoiYjI5YmFhZDItNjg2Zi00Yzg0LWJjYmEtZWI1YjkwZTQ0OTY3IiwidCI6ImIwNmQwYmY2LWJhNjctNDMzZS05NWRlLTU4NWI3NDQzZTA5ZiIsImMiOjF9)
+- **Live Dashboard:** [novyPro Link](https://app.powerbi.com/view?r=eyJrIjoiMDI0ZDk0OGYtZTk3ZS00OGUwLWEyOTMtY2I1YzYzYzI5ZDNlIiwidCI6ImIwNmQwYmY2LWJhNjctNDMzZS05NWRlLTU4NWI3NDQzZTA5ZiIsImMiOjF9)
 #### Objectives:
 
 1. Evaluate the performance of promotional campaigns.
